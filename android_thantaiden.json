@@ -39,5 +39,5 @@
 },
   "game_url": "apigateway.cc",
   "targetBundle": "loginAndroid",
-  "targetScene": "loginAndroid"
+  "targetScene": "loginGateway"
 }
