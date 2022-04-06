@@ -2,5 +2,6 @@
   "status": 0,
   "manifest": {},
   "game_url": "",
-  "targetBundle": ""
+  "targetBundle": "",
+  "targetScene": ""
 }
