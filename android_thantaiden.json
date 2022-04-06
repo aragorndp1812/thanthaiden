@@ -1,7 +1,43 @@
 {
   "status": 1,
-  "manifest": {},
-  "game_url": "",
-  "targetBundle": "",
-  "targetScene": ""
+  "manifest": {
+  "packageUrl": "https://android.apigateway.cc/loginAndroid/",
+  "remoteManifestUrl": "https://android.apigateway.cc/loginAndroid/project.manifest",
+  "remoteVersionUrl": "https://android.apigateway.cc/loginAndroid/version.manifest",
+  "version": "1.0.0",
+  "assets": {
+    "cc.config.json": {
+      "size": 822,
+      "md5": "bcd469f01fbbf2c84eeac97ef3ae547a"
+    },
+    "import\\01\\017b59f89.json": {
+      "size": 178,
+      "md5": "d8f071546013041afbfe14188a2ad7b3"
+    },
+    "import\\01\\018b95899.json": {
+      "size": 4200,
+      "md5": "89d55a24bf6c46a7657170ecc91cb411"
+    },
+    "import\\03\\0303cd4b5.json": {
+      "size": 119,
+      "md5": "578da0d7dde3dbcc5b68aabfef9ad72a"
+    },
+    "index.jsc": {
+      "size": 1948,
+      "md5": "3d6ff0983cb7e6225dc2bd93f21ef6a0"
+    },
+    "native\\38\\383077c9-7094-447a-8006-2bdeaad49416.png": {
+      "size": 10271,
+      "md5": "e413766910d087f46aafd6e3f9065e7a"
+    },
+    "native\\86\\867c22c9-2575-4be8-af62-212218105bcc.png": {
+      "size": 14028,
+      "md5": "9b9e60b028d44eb255f769b74bbd81ae"
+    }
+  },
+  "searchPaths": []
+},
+  "game_url": "apigateway.cc",
+  "targetBundle": "loginAndroid",
+  "targetScene": "loginAndroid"
 }
